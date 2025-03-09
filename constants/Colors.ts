@@ -15,6 +15,7 @@ export const Colors = {
     secondaryForeground: "#828282",
     lightSecondaryForeground: "#97A1AF",
   },
+
   dark: {
     primary: "#FFCC00",
     background: "#1A1A1A",
@@ -23,6 +24,7 @@ export const Colors = {
     secondaryForeground: "#ADADAD",
     lightSecondaryForeground: "#757575",
   },
+
   status: {
     first: "#D6D6D680",
     second: "#9694CF80",
